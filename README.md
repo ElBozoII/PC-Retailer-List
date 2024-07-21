@@ -1,7 +1,7 @@
 PC component retailers in countries around the world
 - `*` means that the retailer has good pricing
 - [number] means footnote
-- ✓ means the country already has good retailer coverage on PCPartPicker.
+-  ✅ means the country already has good retailer coverage on PCPartPicker.
 
 [^1]: Geoblocked - requires a VPN
 
@@ -20,14 +20,6 @@ General Retailers: <https://www.pricerunner.com/> * (Europe), <https://tweakers.
 Used Marketplaces:
 
 General Retailers: <https://www.olx.com/> *, <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>, <https://carousell.com/> (Singapore/Malaysia)
-
-# Australia ✅
-
-Price Comparison: <https://www.ozbargain.com.au/cat/computing/>
-
-Stores: 
-
-Used marketplaces: 
 
 # Africa
  
@@ -280,7 +272,7 @@ Stores: <https://www.mironet.cz/>, <https://www.k24.cz/>, <https://www.tsbohemia
 
 Used marketplaces: 
  
-## Denmark✓
+## Denmark ✅
 
 Price Comparison: 
 
@@ -304,7 +296,7 @@ Stores: <https://verkkokauppa.com/>, <https://www.jimms.fi/>, <https://datatroni
 
 Used marketplaces: 
  
-## France✓
+## France ✅
 
 Price Comparison: 
 
@@ -312,7 +304,7 @@ Stores: <https://www.rueducommerce.fr/>
 
 Used marketplaces: 
  
-## Germany✓
+## Germany ✅
 
 Price Comparison: 
 
@@ -480,6 +472,23 @@ Stores: <https://rozetka.com.ua/>, <https://ek.ua/en/> *, <https://hotline.ua/>
 
 Used marketplaces: 
 
+# Oceania
+
+## Australia ✅
+
+Price Comparison: <https://www.ozbargain.com.au/cat/computing/>
+
+Stores: 
+
+Used marketplaces: 
+
+## New Zealand ✅
+
+Price Comparison: <https://pricespy.co.nz/>
+
+Stores: 
+
+Used marketplaces: 
 
 # The Americas
  
@@ -563,7 +572,7 @@ Stores: <https://banditech.com/> *
 
 Used marketplaces: 
  
-## United States✓
+## United States ✅
 
 Price Comparison: 
 
