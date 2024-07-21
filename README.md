@@ -1,4 +1,4 @@
-Best retailers for countries around the world
+PC component retailers in countries around the world
 - `*` means that the retailer has good pricing
 - [number] means footnote
 - ✓ means the country already has good retailer coverage on PCPartPicker.
@@ -11,60 +11,23 @@ Best retailers for countries around the world
 * TOC
 {:toc}
 
+**TODO: place these where they belong**
 
 Price Comparison Websites (usually better than individual websites):
 
 General Retailers: <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region), <https://geizhals.eu/> *,  <https://www.idealo.de/> (Germany/Austria), <https://www.heureka.sk/> * (Czech Republic and Slovakia)
- 
-Australia✓: <https://www.ozbargain.com.au/cat/computing/>
- 
-Brazil: <https://meupc.net/>
- 
-Egypt: <https://www.egprices.com/en/> *
-
-India: <https://pcpricetracker.in/> *
- 
-Latvia: <https://www.kurpirkt.lv/> *
- 
-Lithuania: <https://kaina24.lt/> *
- 
-Romania: <https://compari.ro/>
- 
-Serbia: <https://www.itsvet.com/> *, <https://www.eponuda.com/> *, <https://www.shopmania.rs/>, <https://www.idealno.rs/>, <https://www.pametno.rs/>, <https://www.kudaukupovinu.rs/>, <https://www.goglasi.com/> *
-
 
 Used Marketplaces:
 
-General Retailers: <https://www.olx.com/*>, <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>, <https://carousell.com/> (Singapore/Malaysia)
- 
-Bulgaria: <https://bazar.bg/>
- 
-Estonia: <https://okidoki.ee/>
- 
-Georgia: <https://mymarket.ge/>
- 
-Germany✓: <https://kleinanzeigen.de/>
- 
-Jordan: <https://jo.opensooq.com/> *
- 
-Latvia: <https://www.ss.lv/en>
- 
-Nepal: <https://hamrobazaar.com/>
- 
-Netherlands✓: <https://marktplaats.nl/>
- 
-Norway: <https://www.finn.no/>
- 
-Russia: <https://www.avito.ru/>
- 
-Saudi Arabia: <https://haraj.com.sa/>
- 
-Switzerland: <https://www.ricardo.ch/>
- 
-Türkiye (Turkey): <https://sahibinden.com/>, <https://www.banayeni.com/>
- 
-UAE: <https://www.dubizzle.com/>
+General Retailers: <https://www.olx.com/> *, <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>, <https://carousell.com/> (Singapore/Malaysia)
 
+# Australia ✅
+
+Price Comparison: <https://www.ozbargain.com.au/cat/computing/>
+
+Stores: 
+
+Used marketplaces: 
 
 # Africa
  
@@ -79,7 +42,7 @@ Used marketplaces:
 
 ## Egypt
 
-Price Comparison:
+Price Comparison: <https://www.egprices.com/en/> *
 
 Stores: <https://www.sigma-computer.com/>, <https://www.elnekhelytechnology.com/>, <https://www.hankerz.com.eg/>
 
@@ -152,7 +115,7 @@ Price Comparison:
 
 Stores: <https://gamers.ge/>, <http://pcroom.ge/>, <https://itworks.ge/>, <https://adashop.ge/>, <https://extra.ge/>
 
-Used marketplaces: 
+Used marketplaces: <https://mymarket.ge/>
  
 ## Hong Kong
 
@@ -164,7 +127,7 @@ Used marketplaces:
  
 ## India
 
-Price Comparison: 
+Price Comparison: <https://pcpricetracker.in/> *
 
 Stores: <https://www.flipkart.com/>
 
@@ -208,7 +171,7 @@ Price Comparison:
 
 Stores: <https://himmcom.com.np/> *
 
-Used marketplaces: 
+Used marketplaces: <https://hamrobazaar.com/>
  
 ## Pakistan
 
@@ -291,7 +254,7 @@ Price Comparison:
 
 Stores: <https://www.ozone.bg/>, <https://www.jarcomputers.com/>, <https://ardes.bg/>, <https://pcbuild.bg/>, <https://www.pazaruvaj.com/> *, <https://plasico.bg/> *
 
-Used marketplaces: 
+Used marketplaces: <https://bazar.bg/>
  
 ## Croatia
 
@@ -331,7 +294,7 @@ Price Comparison:
 
 Stores: <https://arvutitark.ee/>, <https://hinnavaatlus.ee/> *, <https://hind.ee/>, <https://datagate.ee/>, <https://manguarvutid.ee/>, <https://www.rde.ee/>, <https://www.1a.ee/>, <https://www.itshop.ee/>, <https://kaup24.ee/>, <https://www.klick.ee/>, <https://onoff.ee/en/>
 
-Used marketplaces: 
+Used marketplaces: <https://okidoki.ee/>
  
 ## Finland
 
@@ -355,7 +318,7 @@ Price Comparison:
 
 Stores: <https://www.klarna.com/de/>, <https://www.mediamarkt.de/>, <https://www.saturn.de/>
 
-Used marketplaces: 
+Used marketplaces: <https://kleinanzeigen.de/>
  
 ## Greece
 
@@ -383,15 +346,15 @@ Used marketplaces:
  
 ## Latvia
 
-Price Comparison: 
+Price Comparison: <https://www.kurpirkt.lv/> *
 
 Stores: <https://www.1a.lv/> *, <https://salidzini.lv/>, <https://rdveikals.lv/>, <https://maxtrade.lv/>, <https://220.lv/>, <https://www.4games.pro/en/>, <https://balticdata.lv/en/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.ss.lv/en>
  
 ## Lithuania
 
-Price Comparison: 
+Price Comparison: <https://kaina24.lt/> *
 
 Stores: <https://pigu.lt/>, <https://www.rde.lt/>, <https://itwork.lt/>, <https://ocpc.lt/>, <https://topocentras.lt/>, <https://www.kilobaitas.lt/>, <https://skytech.lt/>, <https://senukai.lt/> * [^1], <https://pirkeu.lt/> *
 
@@ -420,14 +383,22 @@ Price Comparison:
 Stores: <https://neocomputer.md/>, <https://darwin.md/>
 
 Used marketplaces: 
- 
+
+## Netherlands ✅
+
+Price Comparison: <https://tweakers.net/>
+
+Stores: 
+
+Used marketplaces: <https://marktplaats.nl/>
+
 ## Norway
 
-Price Comparison: 
+Price Comparison: <https://buildapc.gg/no> *
 
 Stores: <https://www.elkjop.no/>, <https://www.komplett.no/>, <https://www.power.no/>, <https://www.multicom.no/>, <https://www.digitalimpuls.no/>, <https://www.dustinhome.no/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.finn.no/>
  
 ## Poland
 
@@ -437,7 +408,7 @@ Stores: <https://sklep.format.com.pl/>, <https://www.ceneo.pl/>, <https://www.x-
 
 Used marketplaces: 
  
-## Portugal✓
+## Portugal ✅
 
 Price Comparison: 
 
@@ -447,7 +418,7 @@ Used marketplaces:
  
 ## Romania
 
-Price Comparison: 
+Price Comparison: <https://compari.ro/>
 
 Stores: <https://www.pcgarage.ro/>, <https://altex.ro/>, <https://www.vexio.ro/>, <https://www.cel.ro/>, <https://alexpc.ro/>, <https://www.itarena.ro/>, <https://www.shop4pc.ro/>
 
@@ -459,11 +430,11 @@ Price Comparison:
 
 Stores: <https://www.dns-shop.ru/>, <https://www.ozon.ru/>, <https://www.tradeinn.com/> *, <https://www.nix.ru/>, <https://www.regard.ru/>, <https://forum3.ru/>, <https://www.coolera.ru/>, <https://www.xpert.ru/>, <https://www.xcom-shop.ru/>, <https://www.onlinetrade.ru/>, <https://www.citilink.ru/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.avito.ru/>
  
 ## Serbia
 
-Price Comparison: 
+Price Comparison: <https://www.itsvet.com/> *, <https://www.eponuda.com/> *, <https://www.shopmania.rs/>, <https://www.idealno.rs/>, <https://www.pametno.rs/>, <https://www.kudaukupovinu.rs/>, <https://www.goglasi.com/> *
 
 Stores: <https://www.kliklak.rs/>, <https://jakov.rs/>, <https://gigatron.rs/> *, <https://www.monitor.rs/>, <https://www.pinshop.rs/>, <https://www.novicomp.rs/>, <https://atom.rs/> *, <https://ananas.rs/>, <https://entechnology.rs/>
 
@@ -499,7 +470,7 @@ Price Comparison:
 
 Stores: <https://www.digitec.ch/*>, <https://www.tradeinn.com/>, <https://www.microspot.ch/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.ricardo.ch/>
  
 ## Ukraine
 
@@ -530,7 +501,7 @@ Used marketplaces:
  
 ## Brazil
 
-Price Comparison: 
+Price Comparison: <https://meupc.net/>
 
 Stores: <https://www.kabum.com.br/> *, <https://www.pichau.com.br/> *, <https://www.terabyteshop.com.br/>
 
@@ -649,6 +620,14 @@ Price Comparison:
 Stores: <https://tms.co.il/>, <http://www.ivory.co.il/>, <https://ksp.co.il/>, <https://plonter.co.il/>, <https://bug.co.il/>, <https://www.yahavpc.co.il/*>
 
 Used marketplaces: 
+
+## Jordan
+
+Price Comparison: 
+
+Stores: 
+
+Used marketplaces: <https://jo.opensooq.com/> *
  
 ## Lebanon
 
@@ -672,7 +651,7 @@ Price Comparison:
 
 Stores: <https://www.jarir.com/>
 
-Used marketplaces: 
+Used marketplaces: <https://haraj.com.sa/>
  
 ## Türkiye (Turkey)
 
@@ -680,7 +659,7 @@ Price Comparison:
 
 Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/>, <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>
 
-Used marketplaces: 
+Used marketplaces: <https://sahibinden.com/>, <https://www.banayeni.com/>
  
 ## UAE
 
@@ -688,4 +667,4 @@ Price Comparison:
 
 Stores: <https://dubaigamers.com/>, <https://gccgamers.com/>, <https://www.geekay.com/>, <https://gear-up.me/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.dubizzle.com/>
