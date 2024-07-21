@@ -1,21 +1,20 @@
 Best retailers for countries around the world
+- `*` means that the retailer has good pricing
+- [number] means footnote
+- ✓ means the country already has good retailer coverage on PCPartPicker.
+
+[^1]: Geoblocked - requires a VPN
+
+[^2]: Has bad customer support
 
 
 * TOC
 {:toc}
 
 
-`* means that the retailer has good pricing, [number] means footnote, ✓ means the country already has good retailer coverage on PCPartPicker.`
-
-`Footnotes:`
-
-`Footnote #1: Requires a VPN`
-
-`Footnote #2: Has bad customer support`
-
 Price Comparison Websites (usually better than individual websites):
 
-General Retailers: <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region), <https://geizhals.eu/> * |  <https://www.idealo.de/> (Germany/Austria), <https://www.heureka.sk/> * (Czech Republic and Slovakia)
+General Retailers: <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region), <https://geizhals.eu/> *,  <https://www.idealo.de/> (Germany/Austria), <https://www.heureka.sk/> * (Czech Republic and Slovakia)
  
 Australia✓: <https://www.ozbargain.com.au/cat/computing/>
  
@@ -36,7 +35,7 @@ Serbia: <https://www.itsvet.com/> *, <https://www.eponuda.com/> *, <https://www.
 
 Used Marketplaces:
 
-General Retailers: <https://www.olx.com/*> | <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>, <https://carousell.com/> (Singapore/Malaysia)
+General Retailers: <https://www.olx.com/*>, <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>, <https://carousell.com/> (Singapore/Malaysia)
  
 Bulgaria: <https://bazar.bg/>
  
@@ -106,13 +105,13 @@ Used marketplaces:
 
 Price Comparison:
 
-Stores: <https://www.tunisianet.com.tn/>, <https://megapc.tn/> * [1], <https://www.sbsinformatique.com/>
+Stores: <https://www.tunisianet.com.tn/>, <https://megapc.tn/> * [^1], <https://www.sbsinformatique.com/>
 
 Used marketplaces:
 
 # Asia
  
-General Retailers: <https://www.newegg.com/>, <https://amazon.com/> *, <https://www.aliexpress.com/> *, <https://shopee.com/> * | <https://lazada.com/> * (South East Asia)
+General Retailers: <https://www.newegg.com/>, <https://amazon.com/> *, <https://www.aliexpress.com/> *, <https://shopee.com/> *, <https://lazada.com/> * (South East Asia)
 
 ## Azerbaijan
 
@@ -127,7 +126,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://vibegaming.com.bd/>, <https://www.startech.com.bd/>, <https://www.ryanscomputers.com/>, <https://www.techlandbd.com/|>
+Stores: <https://vibegaming.com.bd/>, <https://www.startech.com.bd/>, <https://www.ryanscomputers.com/>, <https://www.techlandbd.com/>
 
 Used marketplaces: 
  
@@ -394,7 +393,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://pigu.lt/>, <https://www.rde.lt/>, <https://itwork.lt/>, <https://ocpc.lt/>, <https://topocentras.lt/>, <https://www.kilobaitas.lt/>, <https://skytech.lt/>, <https://senukai.lt/> * [1], <https://pirkeu.lt/> *
+Stores: <https://pigu.lt/>, <https://www.rde.lt/>, <https://itwork.lt/>, <https://ocpc.lt/>, <https://topocentras.lt/>, <https://www.kilobaitas.lt/>, <https://skytech.lt/>, <https://senukai.lt/> * [^1], <https://pirkeu.lt/> *
 
 Used marketplaces: 
  
