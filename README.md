@@ -472,6 +472,14 @@ Stores: <https://rozetka.com.ua/>, <https://ek.ua/en/> *, <https://hotline.ua/>
 
 Used marketplaces: 
 
+## [United Kingdom](https://uk.pcpartpicker.com/) ✅
+
+Price Comparison: https://skinflint.co.uk/
+
+Stores:
+
+Used marketplaces:
+
 # Oceania
 
 ## Australia ✅
