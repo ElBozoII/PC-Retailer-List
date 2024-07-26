@@ -44,7 +44,7 @@ Used marketplaces:
 
 Price Comparison:
 
-Stores: <https://www.ultrapc.ma/> *
+Stores: <https://www.ultrapc.ma/> *, <https://nextlevelpc.ma/>, <https://setupgame.codebarre.ma/>, <https://techspace.ma/>
 
 Used marketplaces:
  
