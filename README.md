@@ -346,7 +346,7 @@ Used marketplaces: <https://www.ss.lv/en>
  
 ## Lithuania
 
-Price Comparison: <https://kaina24.lt/> *
+Price Comparison: <https://kaina24.lt/> *, <https://kainos.lt/> *
 
 Stores: <https://pigu.lt/>, <https://www.rde.lt/>, <https://itwork.lt/>, <https://ocpc.lt/>, <https://topocentras.lt/>, <https://www.kilobaitas.lt/>, <https://skytech.lt/>, <https://senukai.lt/> * [^1], <https://pirkeu.lt/> *
 
