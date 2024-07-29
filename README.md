@@ -7,12 +7,6 @@ PC component retailers in countries around the world
 
 [^2]: Has bad customer support
 
-
-* TOC
-{:toc}
-
-**TODO: place these where they belong**
-
 Price Comparison Websites (usually better than individual websites):
 
 General Retailers: <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region), <https://geizhals.eu/> *,  <https://www.idealo.de/> (Germany/Austria), <https://www.heureka.sk/> * (Czech Republic and Slovakia)
@@ -356,7 +350,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <http://www.anhoch.com/>, <https://ddstore.mk/>, <https://niko.com.mk/>, <http://setec.mk/>
+Stores: <http://www.anhoch.com/>*, <https://ddstore.mk/>, <https://niko.com.mk/>
 
 Used marketplaces: 
  
