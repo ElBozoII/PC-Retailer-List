@@ -334,7 +334,7 @@ Used marketplaces:
 
 Price Comparison: <https://www.kurpirkt.lv/> *
 
-Stores: <https://www.1a.lv/> *, <https://salidzini.lv/>, <https://rdveikals.lv/>, <https://maxtrade.lv/>, <https://220.lv/>, <https://www.4games.pro/en/>, <https://balticdata.lv/en/>
+Stores: <https://www.1a.lv/> *, <https://salidzini.lv/>, <https://rdveikals.lv/>, <https://maxtrade.lv/>, <https://220.lv/>, <https://www.4games.pro/en/>, <https://balticdata.lv/en/>, <https://oreol.eu/>
 
 Used marketplaces: <https://www.ss.lv/en>
  
