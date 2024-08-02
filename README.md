@@ -70,7 +70,6 @@ Stores: <https://compstore.az/> *, <https://amazoncomp.az/>
 
 Used marketplaces:
 
- 
 ## Bangladesh
 
 Price Comparison: 
@@ -636,9 +635,9 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: 
+Stores: <https://os-jo.com/>, <https://citycenter.jo/>
 
-Used marketplaces: <https://jo.opensooq.com/> *
+Used marketplaces: <https://jo.opensooq.com/> 
  
 ## Lebanon
 
