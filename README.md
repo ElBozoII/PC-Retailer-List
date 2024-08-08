@@ -253,7 +253,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://needy.shop/>
+Stores: <https://needy.shop/>, <https://dreamyshopcy.com/>
 
 Used marketplaces: 
  
