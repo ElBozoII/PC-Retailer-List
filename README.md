@@ -132,7 +132,7 @@ Price Comparison:
 
 Stores: <https://www.ark-pc.co.jp/>, <https://www.sofmap.com/>, <https://kakaku.com/> *, <https://www.dospara.co.jp/> *, <https://joshinweb.jp/>, <https://www.e-trend.co.jp/>, <http://gold.e-tokka.com/>, <https://best-do.com/>, <https://www.pcdepot.co.jp/>, <https://www.edion.com/>, <http://shop.applied-net.co.jp/>, <https://www.pc-koubou.jp/>, <https://shop.tsukumo.co.jp/> *
 
-Used marketplaces: 
+Used marketplaces: <https://www.janpara.co.jp/>
  
 ## Kazakhstan
 
