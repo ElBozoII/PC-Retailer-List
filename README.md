@@ -467,7 +467,7 @@ Used marketplaces:
 
 ## [United Kingdom](https://uk.pcpartpicker.com/) ✅
 
-Price Comparison: https://skinflint.co.uk/
+Price Comparison: <https://skinflint.co.uk/>, <https://pricespy.co.uk/>, <https://www.pricehunter.co.uk/>
 
 Stores: 
 
