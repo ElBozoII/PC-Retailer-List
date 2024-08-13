@@ -7,6 +7,8 @@ PC component retailers in countries around the world
 
 [^2]: Has bad customer support
 
+TBD: add https://www.euronics.com/pages/shop-by-country retailers
+
 Price Comparison Websites (usually better than individual websites): <https://www.olx.com/> *, <https://geizhals.eu/> * <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region)
 
 Used Marketplaces: <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>
@@ -278,11 +280,11 @@ Used marketplaces:
  
 ## Estonia
 
-Price Comparison: 
+Price Comparison: <https://hv.ee/> *, <https://hind.ee/>
 
-Stores: <https://arvutitark.ee/>, <https://hinnavaatlus.ee/> *, <https://hind.ee/>, <https://datagate.ee/>, <https://manguarvutid.ee/>, <https://www.rde.ee/>, <https://www.1a.ee/>, <https://www.itshop.ee/>, <https://kaup24.ee/>, <https://www.klick.ee/>, <https://onoff.ee/en/>
+Stores: <https://arvutitark.ee/>, <https://datagate.ee/>, <https://manguarvutid.ee/en/>, <https://www.rde.ee/>, <https://www.1a.ee/>, <https://www.itshop.ee/>, <https://kaup24.ee/>, <https://www.klick.ee/>, <https://onoff.ee/en/>
 
-Used marketplaces: <https://okidoki.ee/>
+Used marketplaces: <https://okidoki.ee/>, <https://www.osta.ee/en>
  
 ## Finland
 
@@ -334,11 +336,11 @@ Used marketplaces:
  
 ## Latvia
 
-Price Comparison: <https://www.kurpirkt.lv/> *
+Price Comparison: <https://www.kurpirkt.lv/>, <https://salidzini.lv/> *, <https://ceno.lv/en/>
 
-Stores: <https://www.1a.lv/> *, <https://salidzini.lv/>, <https://rdveikals.lv/>, <https://maxtrade.lv/>, <https://220.lv/>, <https://www.4games.pro/en/>, <https://balticdata.lv/en/>, <https://oreol.eu/>
+Stores: <https://maxtrade.lv/> *, <https://m79.lv/> *, <https://www.1a.lv/>, <https://rd.lv/>, <https://220.lv/>, <https://www.4games.pro/en/>, <https://balticdata.lv/en/>, <https://oreol.eu/>
 
-Used marketplaces: <https://www.ss.lv/en>
+Used marketplaces: <https://www.ss.lv/en>, <https://pp.lv/>
  
 ## Lithuania
 
