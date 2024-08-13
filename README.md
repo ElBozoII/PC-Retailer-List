@@ -7,13 +7,9 @@ PC component retailers in countries around the world
 
 [^2]: Has bad customer support
 
-Price Comparison Websites (usually better than individual websites):
+Price Comparison Websites (usually better than individual websites): <https://www.olx.com/> *, <https://geizhals.eu/> * <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region)
 
-General Retailers: <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region), <https://geizhals.eu/> *,  <https://www.idealo.de/> (Germany/Austria), <https://www.heureka.sk/> * (Czech Republic and Slovakia)
-
-Used Marketplaces:
-
-General Retailers: <https://www.olx.com/> *, <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>, <https://carousell.com/> (Singapore/Malaysia)
+Used Marketplaces: <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>
 
 # Africa
  
@@ -24,7 +20,6 @@ Price Comparison:
 Stores: <https://wifidjelfa.com/>, <https://www.geekzonedz.com/>, <https://informatics-dz.com/> *, <https://www.licbplus.com.dz/>, <https://fractal-shop.com/>, <https://chb-store.com/>
 
 Used marketplaces:
-
 
 ## Egypt
 
@@ -106,9 +101,9 @@ Used marketplaces: <https://mymarket.ge/>
 
 Price Comparison: 
 
-Stores: <https://www.price.com.hk/> *, <https://www.faroll.com/>, <https://www.carousell.com.hk/>, <https://www.terminalhk.com/>, <https://shop.pegasus.hk/>, <https://rivia-tech.com/>
+Stores: <https://www.price.com.hk/> *, <https://www.faroll.com/>, <https://www.terminalhk.com/>, <https://shop.pegasus.hk/>, <https://rivia-tech.com/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.carousell.com.hk/>
  
 ## India
 
@@ -148,7 +143,7 @@ Price Comparison:
 
 Stores: <https://idealtech.com.my/>, <https://www.tmt.my/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.carousell.com.my/>
  
 ## Nepal
 
@@ -172,7 +167,7 @@ Price Comparison:
 
 Stores: <https://bermorzone.com.ph/>, <https://dynaquestpc.com/>, <http://www.pcoptionsph.com/>, <https://www.makotekcomputers.com/>, <https://pchubonline.com/*>, <https://ecommerce.datablitz.com.ph/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.carousell.ph/>
  
 ## Singapore
 
@@ -180,7 +175,7 @@ Price Comparison:
 
 Stores: <https://dynacoretech.com/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.carousell.sg/>
  
 ## South Korea
 
@@ -227,12 +222,20 @@ Used marketplaces:
  
 ## Austria
 
-Price Comparison: 
+Price Comparison: <https://www.idealo.at/>*
 
 Stores: <https://www.electronic4you.at/>, <https://www.mediamarkt.at/>, <https://www.e-tec.at/> *, <https://www.cyberport.at/>, <https://www.mylemon.at/>, <https://www.ditech.at>
 
 Used marketplaces: 
- 
+
+## Bosnia & Herzegovina
+
+Price Comparison: <https://www.idealno.ba/>*
+
+Stores: 
+
+Used marketplaces:
+
 ## Bulgaria
 
 Price Comparison: 
@@ -243,7 +246,7 @@ Used marketplaces: <https://bazar.bg/>
  
 ## Croatia
 
-Price Comparison: 
+Price Comparison: <https://www.jeftinije.hr/> *
 
 Stores: <https://www.nabava.net/> *, <https://www.futura-it.hr/>
 
@@ -259,7 +262,7 @@ Used marketplaces:
  
 ## Czech Republic
 
-Price Comparison: 
+Price Comparison: <https://www.heureka.cz/> *
 
 Stores: <https://www.mironet.cz/>, <https://www.k24.cz/>, <https://www.tsbohemia.cz/>, <https://www.czc.cz/>, <https://shop.bostar.cz/>
 
@@ -299,7 +302,7 @@ Used marketplaces:
  
 ## [Germany](https://de.pcpartpicker.com/) ✅
 
-Price Comparison: 
+Price Comparison: <https://www.idealo.de/> *
 
 Stores: <https://www.klarna.com/de/>, <https://www.mediamarkt.de/>, <https://www.saturn.de/>
 
@@ -427,7 +430,7 @@ Used marketplaces:
  
 ## Slovakia
 
-Price Comparison: 
+Price Comparison: <https://www.heureka.sk/> *
 
 Stores: <https://alza.sk/>, <https://www.tichepc.sk/>
 
@@ -435,7 +438,7 @@ Used marketplaces:
  
 ## Slovenia
 
-Price Comparison: 
+Price Comparison: <https://www.ceneje.si/> *
 
 Stores: <https://www.mimovrste.com/>, <https://www.electronic4you.si/>, <https://www.bigbang.si/>
 
