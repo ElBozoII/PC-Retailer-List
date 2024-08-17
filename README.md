@@ -456,9 +456,9 @@ Used marketplaces:
  
 ## Sweden
 
-Price Comparison: 
+Price Comparison: <https://prisjakt.nu/> *
 
-Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/>, <https://prisjakt.nu/>
+Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/> 
 
 Used marketplaces: 
  
