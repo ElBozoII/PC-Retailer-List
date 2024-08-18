@@ -464,9 +464,9 @@ Used marketplaces:
  
 ## Switzerland
 
-Price Comparison: 
+Price Comparison: <https://www.toppreise.ch/> *
 
-Stores: <https://www.digitec.ch/*>, <https://www.tradeinn.com/>, <https://www.microspot.ch/>
+Stores: <https://www.digitec.ch/> *, <https://www.tradeinn.com/>, <https://www.microspot.ch/>
 
 Used marketplaces: <https://www.ricardo.ch/>
  
