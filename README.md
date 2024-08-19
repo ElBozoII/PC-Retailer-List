@@ -27,7 +27,7 @@ Used marketplaces:
 
 Price Comparison: <https://www.egprices.com/en/> *
 
-Stores: <https://www.sigma-computer.com/>, <https://www.elnekhelytechnology.com/>, <https://www.hankerz.com.eg/>
+Stores: <https://www.sigma-computer.com/>, <https://www.elnekhelytechnology.com/>, <https://www.hankerz.com.eg/>, <https://www.compumarts.com/>
 
 Used marketplaces:
  
@@ -234,7 +234,7 @@ Used marketplaces:
 
 Price Comparison: <https://www.idealno.ba/>*
 
-Stores: 
+Stores: <https://doper.ba/>, <https://procomp.ba/>
 
 Used marketplaces:
 
@@ -402,7 +402,7 @@ Used marketplaces: <https://www.finn.no/>
 
 Price Comparison: 
 
-Stores: <https://sklep.format.com.pl/>, <https://www.ceneo.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>
+Stores: <https://sklep.format.com.pl/>, <https://www.ceneo.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>, <https://cenowarka.pl/>
 
 Used marketplaces: 
  
@@ -458,7 +458,7 @@ Used marketplaces:
 
 Price Comparison: <https://prisjakt.nu/> *
 
-Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/> 
+Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/>, <https://komponentkoll.se/>
 
 Used marketplaces: 
  
