@@ -167,7 +167,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://bermorzone.com.ph/>, <https://dynaquestpc.com/>, <http://www.pcoptionsph.com/>, <https://www.makotekcomputers.com/>, <https://pchubonline.com/*>, <https://ecommerce.datablitz.com.ph/>
+Stores: <https://bermorzone.com.ph/>, <https://dynaquestpc.com/>, <http://www.pcoptionsph.com/>, <https://www.makotekcomputers.com/>, <https://pchubonline.com/> *, <https://ecommerce.datablitz.com.ph/>
 
 Used marketplaces: <https://www.carousell.ph/>
  
@@ -322,7 +322,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.mediamarkt.hu/>, <https://ipon.hu/>, <https://www.arukereso.hu/*>, <https://iponcomp.hu>
+Stores: <https://www.mediamarkt.hu/>, <https://ipon.hu/>, <https://www.arukereso.hu/> *, <https://iponcomp.hu>
 
 Used marketplaces: 
  
@@ -400,9 +400,9 @@ Used marketplaces: <https://www.finn.no/>
  
 ## Poland
 
-Price Comparison: 
+Price Comparison: <https://www.ceneo.pl/> *
 
-Stores: <https://sklep.format.com.pl/>, <https://www.ceneo.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>, <https://cenowarka.pl/>
+Stores: <https://sklep.format.com.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>, <https://cenowarka.pl/>
 
 Used marketplaces: 
  
@@ -640,7 +640,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://tms.co.il/>, <http://www.ivory.co.il/>, <https://ksp.co.il/>, <https://plonter.co.il/>, <https://bug.co.il/>, <https://www.yahavpc.co.il/*>
+Stores: <https://tms.co.il/> *, <http://www.ivory.co.il/>, <https://ksp.co.il/>, <https://plonter.co.il/>, <https://bug.co.il/>, <https://www.yahavpc.co.il/> *
 
 Used marketplaces: 
 
