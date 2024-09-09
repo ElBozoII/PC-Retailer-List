@@ -598,7 +598,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.tranza.com/>, <https://thotcomputacion.com.uy/>
+Stores: <https://www.tranza.com/>, <https://thotcomputacion.com.uy/>, <https://www.banifox.com/> *
 
 Used marketplaces: 
 
