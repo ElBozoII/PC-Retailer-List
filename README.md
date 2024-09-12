@@ -71,7 +71,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://vibegaming.com.bd/>, <https://www.startech.com.bd/>, <https://www.ryanscomputers.com/>, <https://www.techlandbd.com/>
+Stores: <https://vibegaming.com.bd/>, <https://www.startech.com.bd/>, <https://www.ryanscomputers.com/>, <https://www.techlandbd.com/>, <https://www.skyland.com.bd/>, <https://www.universal.com.bd/>, <https://www.creatuscomputer.com/>, <https://greentech.com.bd/>, <https://www.pchouse.com.bd/>, <https://www.bdstall.com/>, <https://www.computervillage.com.bd/>, <https://www.onixbd.com/>, <https://www.ultratech.com.bd/>, <https://potakait.com/>, <https://www.perennial.com.bd/>
 
 Used marketplaces: 
  
