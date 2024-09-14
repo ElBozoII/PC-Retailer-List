@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Retailers around the world
+title: Home
+layout: home
 nav_order: 1
 has_toc: true
+permalink: /
 ---
 
 - `*` means that the retailer has good pricing
