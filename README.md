@@ -6,8 +6,6 @@ has_toc: true
 permalink: /
 ---
 
-{% include toc.html html=content sanitize=true h_min=2 h_max=3 %}
-
 - `*` means that the retailer has good pricing
 - [number] means footnote
 -  ✅ means the country already has good retailer coverage on PCPartPicker.
