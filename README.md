@@ -291,11 +291,11 @@ Used marketplaces: <https://okidoki.ee/>, <https://www.osta.ee/en>
  
 ## Finland
 
-Price Comparison: 
+Price Comparison: <https://hinta.fi/> *, <https://hintaopas.fi/>, <https://hintaseuranta.fi/>
 
-Stores: <https://verkkokauppa.com/>, <https://www.jimms.fi/>, <https://datatronic.fi/>, <https://hobbyhall.fi/>, <https://hinta.fi/> *
+Stores: <https://verkkokauppa.com/>, <https://datatronic.fi/>, <https://www.jimms.fi/>, <https://multitronic.fi/en/>, <https://www.proshop.fi/>, <https://hobbyhall.fi/>, 
 
-Used marketplaces: 
+Used marketplaces: <https://www.tori.fi/>, <https://bbs.io-tech.fi/forums/myydaeaen-ja-ostetaan.80/>, <https://www.huuto.net/>
  
 ## [France](https://fr.pcpartpicker.com/) ✅
 
