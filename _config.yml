@@ -1,2 +1,9 @@
 title: PC retailer list
 remote_theme: just-the-docs/just-the-docs
+
+just_the_docs:
+  # Enable table of contents (TOC) in the sidebar
+  show_toc: true
+  # Automatically generate the navigation for the current page
+  # based on the Markdown headers (h1, h2, h3, etc.)
+  toc_levels: "1..2"  # This determines which header levels are shown (h1 to h3)

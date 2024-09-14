@@ -1,4 +1,10 @@
-PC component retailers in countries around the world
+---
+layout: default
+title: Retailers around the world
+nav_order: 1
+has_toc: true
+---
+
 - `*` means that the retailer has good pricing
 - [number] means footnote
 -  ✅ means the country already has good retailer coverage on PCPartPicker.
@@ -7,8 +13,6 @@ PC component retailers in countries around the world
 
 [^2]: Has bad customer support
 
-* TOC
-{:toc}
 
 TBD: add https://www.euronics.com/pages/shop-by-country retailers
 
