@@ -7,6 +7,9 @@ PC component retailers in countries around the world
 
 [^2]: Has bad customer support
 
+* TOC
+{:toc}
+
 TBD: add https://www.euronics.com/pages/shop-by-country retailers
 
 Price Comparison Websites (usually better than individual websites): <https://www.olx.com/> *, <https://geizhals.eu/> * <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region)
