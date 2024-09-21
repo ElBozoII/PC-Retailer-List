@@ -119,7 +119,7 @@ Used marketplaces: <https://www.carousell.com.hk/>
 
 Price Comparison: <https://pcpricetracker.in/> *
 
-Stores: <https://www.flipkart.com/>
+Stores:
 
 Used marketplaces: 
  
