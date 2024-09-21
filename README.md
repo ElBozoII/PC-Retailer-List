@@ -19,7 +19,7 @@ TBD: add https://www.euronics.com/pages/shop-by-country retailers
 
 Price Comparison Websites (usually better than individual websites): <https://www.olx.com/> *, <https://geizhals.eu/> * <https://www.pricerunner.com/> * (Europe), <https://tweakers.net/> * (Benelux region)
 
-Used Marketplaces: <https://kupujemprodajem.com/> (Europe), <https://www.facebook.com/marketplace/>
+Used Marketplaces: <https://kupujemprodajem.com/> (Europe)
 
 # Africa
  
@@ -215,7 +215,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.takealot.com/>, <https://hotgear.vn/>, <https://phongvu.vn/>, <https://gearvn.com/>, <https://tinhocngoisao.com/> *, <https://www.yellowpages.com.vn/>, <https://www.hanoicomputer.vn/>, <https://vinhpici.vn/>
+Stores: <https://www.takealot.com/>, <https://hotgear.vn/>, <https://phongvu.vn/>, <https://gearvn.com/>, <https://tinhocngoisao.com/> *, <https://www.yellowpages.com.vn/>, <https://www.hanoicomputer.vn/>, <https://vinhpici.vn/>, <https://tandoanh.vn>, <https://kccshop.vn>, <https://nguyencongpc.vn>, <https://hoanghapc.vn>
 
 Used marketplaces: 
 
@@ -226,7 +226,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.geekbuying.com/>, <https://amazon.com/> *, <https://www.euronics.com/> *, <https://www.bol.com/> (Benelux region), <https://buildapc.gg/> * (Denmark/Norway/Sweden), <https://www.emag.ro/> * (Romania/Bulgaria), <https://www.mercadolibre.com/> * (Portugal/Spain)
+Stores: <https://www.geekbuying.com/>, <https://www.euronics.com/> *, <https://www.bol.com/> (Benelux region), <https://buildapc.gg/> * (Denmark/Norway/Sweden), <https://www.emag.ro/> * (Romania/Bulgaria), <https://www.mercadolibre.com/> * (Portugal/Spain)
 
 Used marketplaces: 
  
@@ -518,7 +518,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://amazon.com/> *, <https://www.mercadolibre.com/> * (South America)
+Stores: <https://www.amazon.com> *, <https://www.mercadolibre.com/> * (South America)
 
 Used marketplaces: 
  
