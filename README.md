@@ -675,6 +675,14 @@ Price Comparison:
 Stores: <https://watanimall.com/> *
 
 Used marketplaces: 
+
+## Qatar
+
+Price Comparison: 
+
+Stores: <https://pcbuilderqatar.com/> *, <https://store974.com/> 
+
+Used marketplaces: 
  
 ## Saudi Arabia
 
