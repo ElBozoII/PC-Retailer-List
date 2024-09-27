@@ -219,6 +219,14 @@ Stores: <https://www.takealot.com/>, <https://hotgear.vn/>, <https://phongvu.vn/
 
 Used marketplaces: 
 
+## Sri Lanka
+
+Price Comparison:
+
+Stores: <https://www.gamestreet.lk/>
+
+Used marketplaces: 
+
 
 # Europe
  
