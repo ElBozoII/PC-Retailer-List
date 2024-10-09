@@ -264,11 +264,11 @@ Used marketplaces: <https://bazar.bg/>
  
 ## Croatia
 
-Price Comparison: <https://www.jeftinije.hr/> *
+Price Comparison: <https://www.nabava.net/> *, <https://www.jeftinije.hr/> *
 
-Stores: <https://www.nabava.net/> *, <https://www.futura-it.hr/>
+Stores: <https://www.futura-it.hr/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.njuskalo.hr/>
  
 ## Cyprus
 
