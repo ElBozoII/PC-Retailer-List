@@ -59,7 +59,7 @@ Used marketplaces:
 
 Price Comparison:
 
-Stores: <https://www.tunisianet.com.tn/>, <https://megapc.tn/> * [^1], <https://www.sbsinformatique.com/>, <https://spacenet.tn/>
+Stores: <https://www.tunisianet.com.tn/>, <https://megapc.tn/> * [^1], <https://www.sbsinformatique.com/>, <https://spacenet.tn/>, <https://skymil-informatique.com/>
 
 Used marketplaces:
 
