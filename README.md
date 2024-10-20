@@ -328,9 +328,9 @@ Used marketplaces: <https://kleinanzeigen.de/>
  
 ## Greece
 
-Price Comparison: 
+Price Comparison: <https://www.skroutz.gr/> *
 
-Stores: <https://www.plaisio.gr/>, <https://www.skroutz.gr/>, <https://www.bestprice.gr/>, <https://www.eworld.com.gr/>
+Stores: <https://www.plaisio.gr/>, <https://www.bestprice.gr/>, <https://www.eworld.com.gr/>
 
 Used marketplaces: 
  
