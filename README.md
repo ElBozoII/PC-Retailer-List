@@ -656,7 +656,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://tms.co.il/> *, <http://www.ivory.co.il/>, <https://ksp.co.il/>, <https://plonter.co.il/>, <https://bug.co.il/>, <https://www.yahavpc.co.il/> *
+Stores: <https://tms.co.il/>, <http://www.ivory.co.il/> *, <https://ksp.co.il/> *, <https://plonter.co.il/>, <https://bug.co.il/>, <https://www.yahavpc.co.il/>
 
 Used marketplaces: 
 
