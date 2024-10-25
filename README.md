@@ -648,7 +648,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://alityan.com/> *
+Stores: <https://alityan.com/>, <https://www.elryan.com/>
 
 Used marketplaces: 
  
