@@ -237,7 +237,15 @@ Price Comparison:
 Stores: <https://www.geekbuying.com/>, <https://www.euronics.com/> *, <https://www.bol.com/> (Benelux region), <https://buildapc.gg/> * (Denmark/Norway/Sweden), <https://www.emag.ro/> * (Romania/Bulgaria), <https://www.mercadolibre.com/> * (Portugal/Spain)
 
 Used marketplaces: 
- 
+
+## Albania
+
+Price Comparison: 
+
+Stores: <https://www.albagame.al/>, <https://shop.shpresa.al/>, <https://pcstore.al/>, <https://sq.technosoft.al/>
+
+Used marketplaces: 
+
 ## Austria
 
 Price Comparison: <https://www.idealo.at/>*
