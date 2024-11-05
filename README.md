@@ -183,7 +183,7 @@ Used marketplaces: <https://www.carousell.ph/>
 
 Price Comparison: 
 
-Stores: <https://dynacoretech.com/>
+Stores: <https://dynacoretech.com/>, <https://www.bizgram.com/pricelist-download/>, <http://www.fuwell.com.sg/>, <https://www.globalcybermind.com/pages/price-list>
 
 Used marketplaces: <https://www.carousell.sg/>
  
@@ -540,11 +540,11 @@ Used marketplaces:
  
 ## Argentina
 
-Price Comparison: 
+Price Comparison: <https://www.hardgamers.com.ar/> *
 
-Stores: <https://compragamer.com/> *, <https://venex.com.ar/>, <https://www.fullh4rd.com.ar/>, <https://www.maximus.com.ar/>, <https://www.hardgamers.com.ar/>, <https://www.gezatek.com.ar/> *
+Stores: <https://compragamer.com/> *, <https://venex.com.ar/>, <https://www.fullh4rd.com.ar/>, <https://www.maximus.com.ar/> *, <https://www.gezatek.com.ar/>, <https://empeniogamer.com.ar/>
 
-Used marketplaces: 
+Used marketplaces: <https://www.710tech.com.ar/>
  
 ## Brazil
 
@@ -648,7 +648,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.tikakala.com/>, <https://www.faresbazar.com/>, <https://torob.com/>
+Stores: <https://torob.com/>
 
 Used marketplaces: 
  
