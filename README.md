@@ -1,4 +1,4 @@
----
+ ---
 title: Home
 layout: home
 nav_order: 1
@@ -59,9 +59,9 @@ Used marketplaces:
 
 Price Comparison:
 
-Stores: <https://www.tunisianet.com.tn/>, <https://megapc.tn/> * [^1], <https://www.sbsinformatique.com/>, <https://spacenet.tn/>, <https://skymil-informatique.com/>, <https://www.mytek.tn/>
+Stores: <https://www.tunisianet.com.tn/>, <https://megapc.tn/> * [^1], <https://www.sbsinformatique.com/>, <https://spacenet.tn/>, <https://agora.tn/fr/> *, <https://www.mytek.tn/>, <https://elbadrgroupeg.store/>
 
-Used marketplaces:
+Used marketplaces: <https://www.tayara.tn/>
 
 # Asia
  
