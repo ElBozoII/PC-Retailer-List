@@ -38,7 +38,15 @@ Price Comparison: <https://www.egprices.com/en/> *
 Stores: <https://www.sigma-computer.com/>, <https://www.elnekhelytechnology.com/>, <https://www.hankerz.com.eg/>, <https://www.compumarts.com/>
 
 Used marketplaces:
- 
+
+## Mauritius
+
+Price Comparison:
+
+Stores: <https://fastclick.mu/>, <https://www.fjariltech.com/>, <https://blink.mu/>, <https://www.compuspeed.mu/>
+
+Used marketplaces:
+
 ## Morocco
 
 Price Comparison:
