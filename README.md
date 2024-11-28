@@ -617,6 +617,14 @@ Price Comparison:
 Stores: <https://banditech.com/> *
 
 Used marketplaces: 
+
+## Trinidad and Tobago
+
+Price Comparison: 
+
+Stores: <https://kmselectronicstt.com/>, <https://www.supertechtt.com/>, <https://www.prwe.com/>, <https://thewizzcomputers.com/>, <https://circuitzone.com/>
+
+Used marketplaces: 
  
 ## [United States](https://pcpartpicker.com/) ✅
 
