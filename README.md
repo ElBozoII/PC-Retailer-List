@@ -35,7 +35,7 @@ Used marketplaces:
 
 Price Comparison: <https://www.egprices.com/en/> *
 
-Stores: <https://www.sigma-computer.com/>, <https://www.elnekhelytechnology.com/>, <https://www.hankerz.com.eg/>, <https://www.compumarts.com/>
+Stores: <https://www.sigma-computer.com/>, <https://www.elnekhelytechnology.com/>, <https://www.hankerz.com.eg/>, <https://www.compumarts.com/>, <https://elbadrgroupeg.store/>
 
 Used marketplaces:
 
@@ -656,7 +656,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://advanti.com/>
+Stores: <https://advanti.com/>, <https://www.cazasouq.com/>
 
 Used marketplaces: 
  
