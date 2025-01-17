@@ -14,6 +14,7 @@ permalink: /
 
 [^2]: Has bad customer support
 
+[^3]: Does not allow returns
 
 TBD: add https://www.euronics.com/pages/shop-by-country retailers
 
@@ -736,7 +737,7 @@ Used marketplaces: <https://haraj.com.sa/>
 
 Price Comparison: 
 
-Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/>, <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>
+Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/> [^3], <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>
 
 Used marketplaces: <https://sahibinden.com/>, <https://www.banayeni.com/>
 
