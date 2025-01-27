@@ -206,9 +206,9 @@ Used marketplaces: <https://www.carousell.sg/>
  
 ## South Korea
 
-Price Comparison: 
+Price Comparison: <https://danawa.com/> *
 
-Stores: <https://www.11st.co.kr/>, <https://www.auction.co.kr/>, <https://www.compuzone.co.kr/>, <https://www.gmarket.co.kr/>, <https://usr.icoda.co.kr/>, <https://www.interpark.co.kr/>, <http://www.joyzen.co.kr/>, <https://danawa.com/> *, <https://foryoucom.co.kr/>
+Stores: <https://www.11st.co.kr/>, <https://www.auction.co.kr/>, <https://www.compuzone.co.kr/>, <https://www.gmarket.co.kr/>, <https://usr.icoda.co.kr/>, <https://www.interpark.co.kr/>, <http://www.joyzen.co.kr/>, <https://foryoucom.co.kr/>
 
 Used marketplaces: 
  
