@@ -361,9 +361,9 @@ Used marketplaces:
  
 ## Hungary
 
-Price Comparison: 
+Price Comparison: <https://www.arukereso.hu/> *
 
-Stores: <https://www.mediamarkt.hu/>, <https://ipon.hu/>, <https://www.arukereso.hu/> *, <https://iponcomp.hu>
+Stores: <https://www.mediamarkt.hu/>, <https://ipon.hu/>, <https://iponcomp.hu>
 
 Used marketplaces: 
  
@@ -665,7 +665,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://advanti.com/>, <https://www.cazasouq.com/>
+Stores: <https://advanti.com/>, <https://www.cazasouq.com/>, <https://gear-up.me/>
 
 Used marketplaces: 
  
@@ -700,12 +700,28 @@ Price Comparison:
 Stores: <https://os-jo.com/>, <https://citycenter.jo/>
 
 Used marketplaces: <https://jo.opensooq.com/> 
+
+## Kuwait
+
+Price Comparison: 
+
+Stores: <https://gear-up.me/> *
+
+Used marketplaces: 
  
 ## Lebanon
 
 Price Comparison: 
 
 Stores: <https://ayoubcomputers.com/> *
+
+Used marketplaces: 
+
+## Oman
+
+Price Comparison: 
+
+Stores: <https://gear-up.me/> *
 
 Used marketplaces: 
  
@@ -721,7 +737,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://pcbuilderqatar.com/> *, <https://store974.com/> 
+Stores: <https://pcbuilderqatar.com/> *, <https://store974.com/>, <https://gear-up.me/>
 
 Used marketplaces: 
  
@@ -729,7 +745,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.jarir.com/>
+Stores: <https://www.jarir.com/>, <https://gear-up.me/>
 
 Used marketplaces: <https://haraj.com.sa/>
  
