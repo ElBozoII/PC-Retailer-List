@@ -1,4 +1,4 @@
----
+https://omn.desertcart.com/---
 title: Home
 layout: home
 nav_order: 1
@@ -721,7 +721,7 @@ Used marketplaces:
 
 Price Comparison: 
 
-Stores: <https://gear-up.me/> *
+Stores: <https://gear-up.me/> *, <https://omn.desertcart.com/>, <https://oman.microless.com/>
 
 Used marketplaces: 
  
