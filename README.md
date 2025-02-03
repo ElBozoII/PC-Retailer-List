@@ -733,13 +733,12 @@ Stores:
 Marketplaces: <https://www.mercadolibre.com.ve/>
 
 # The Middle East
-Stores: <https://global.microless.com/> *, <https://amazon.com/> *
  
 ## Bahrain
 
 Price Comparison: 
 
-Stores: <https://advanti.com/>, <https://www.cazasouq.com/>, <https://gear-up.me/>
+Stores: <https://advanti.com/>, <https://www.cazasouq.com/>, <https://gear-up.me/>, <https://bahrain.microless.com/>
 
 Marketplaces: 
  
@@ -779,7 +778,7 @@ Marketplaces: <https://jo.opensooq.com/>
 
 Price Comparison: 
 
-Stores: <https://gear-up.me/> *
+Stores: <https://gear-up.me/> *, <https://kuwait.microless.com/>
 
 Marketplaces: 
  
@@ -811,7 +810,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://pcbuilderqatar.com/> *, <https://store974.com/>, <https://gear-up.me/>
+Stores: <https://pcbuilderqatar.com/> *, <https://store974.com/>, <https://gear-up.me/>, <https://qatar.microless.com/>
 
 Marketplaces: 
  
@@ -819,7 +818,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.jarir.com/>, <https://gear-up.me/>
+Stores: <https://www.jarir.com/>, <https://gear-up.me/>, <https://amazon.sa>, <https://saudi.microless.com/>
 
 Marketplaces: <https://haraj.com.sa/>
  
@@ -827,7 +826,7 @@ Marketplaces: <https://haraj.com.sa/>
 
 Price Comparison: 
 
-Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/> [^3], <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>
+Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/> [^3], <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>, <https://www.amazon.com.tr/>
 
 Marketplaces: <https://sahibinden.com/>, <https://www.banayeni.com/>
 
@@ -835,6 +834,6 @@ Marketplaces: <https://sahibinden.com/>, <https://www.banayeni.com/>
 
 Price Comparison: 
 
-Stores: <https://dubaigamers.com/>, <https://gccgamers.com/>, <https://www.geekay.com/>, <https://gear-up.me/>
+Stores: <https://dubaigamers.com/>, <https://gccgamers.com/>, <https://www.geekay.com/>, <https://gear-up.me/>, <https://www.amazon.ae/>, <https://uae.microless.com/>
 
 Marketplaces: <https://www.dubizzle.com/>
