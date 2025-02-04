@@ -194,7 +194,7 @@ Marketplaces: <https://www.carousell.ph/>
 
 Price Comparison: 
 
-Stores: <https://dynacoretech.com/>, <https://www.bizgram.com/pricelist-download/>, <http://www.fuwell.com.sg/>, <https://www.globalcybermind.com/pages/price-list>, <<https://amazon.sg/> *, <https://www.aliexpress.com/>, <https://shopee.sg/>, <https://lazada.sg/>
+Stores: <https://dynacoretech.com/>, <https://www.bizgram.com/pricelist-download/>, <http://www.fuwell.com.sg/>, <https://www.globalcybermind.com/pages/price-list>, <https://amazon.sg/> *, <https://www.aliexpress.com/>, <https://shopee.sg/>, <https://lazada.sg/>
 
 Marketplaces: <https://www.carousell.sg/>
  
