@@ -372,7 +372,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://pskmegastore.com/>
+Stores: <https://pskmegastore.com/>, <https://www.bpm-power.com/>
 
 Marketplaces: 
 
