@@ -260,7 +260,7 @@ Marketplaces:
 
 Price Comparison: <https://www.idealo.at/> *, <https://geizhals.eu/> *
 
-Stores: <https://www.electronic4you.at/>, <https://www.mediamarkt.at/>, <https://www.e-tec.at/> *, <https://www.cyberport.at/>, <https://www.mylemon.at/>, <https://www.ditech.at>
+Stores: <https://www.electronic4you.at/>, <https://www.mediamarkt.at/>, <https://www.e-tec.at/> *, <https://www.cyberport.at/>, <https://www.mylemon.at/>, <https://www.ditech.at>, <https://www.proshop.at/>
 
 Marketplaces: 
 
@@ -316,7 +316,7 @@ Marketplaces:
 
 Price Comparison: <https://www.pricerunner.dk/> *, <https://buildapc.gg/dk> *
 
-Stores: <https://www.computersalg.dk/>, <https://www.elgiganten.dk/>, <https://www.power.dk/>
+Stores: <https://www.computersalg.dk/>, <https://www.elgiganten.dk/>, <https://www.power.dk/>, <https://www.proshop.dk/>
 
 Marketplaces: 
  
@@ -348,7 +348,7 @@ Marketplaces:
 
 Price Comparison: <https://www.idealo.de/> *, <https://geizhals.eu/> *
 
-Stores: <https://www.klarna.com/de/>, <https://www.mediamarkt.de/>, <https://www.saturn.de/>, <https://de.geekbuying.com/>
+Stores: <https://www.klarna.com/de/>, <https://www.mediamarkt.de/>, <https://www.saturn.de/>, <https://de.geekbuying.com/>, <https://www.proshop.de/>
 
 Marketplaces: <https://kleinanzeigen.de/>
  
@@ -436,7 +436,7 @@ Marketplaces: <https://marktplaats.nl/>
 
 Price Comparison: <https://buildapc.gg/no> *
 
-Stores: <https://www.elkjop.no/>, <https://www.komplett.no/>, <https://www.power.no/>, <https://www.multicom.no/>, <https://www.digitalimpuls.no/>, <https://www.dustinhome.no/>
+Stores: <https://www.elkjop.no/>, <https://www.komplett.no/>, <https://www.power.no/>, <https://www.multicom.no/>, <https://www.digitalimpuls.no/>, <https://www.dustinhome.no/>, <https://www.proshop.no/>
 
 Marketplaces: <https://www.finn.no/>
  
@@ -506,7 +506,7 @@ Marketplaces: <https://www.mercadolibre.com/>
  
 ## Sweden
 
-Price Comparison: <https://prisjakt.nu/> *, <https://www.pricerunner.se/> *, <https://komponentkoll.se/> *
+Price Comparison: <https://prisjakt.nu/> *, <https://www.pricerunner.se/> *, <https://komponentkoll.se/> *, <https://www.proshop.se/>
 
 Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/>
 
