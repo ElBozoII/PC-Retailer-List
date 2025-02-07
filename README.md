@@ -256,7 +256,7 @@ Stores: <https://www.albagame.al/>, <https://shop.shpresa.al/>, <https://pcstore
 
 Marketplaces: 
 
-## Austria
+## [Austria](https://at.pcpartpicker.com/)
 
 Price Comparison: <https://www.idealo.at/> *, <https://geizhals.eu/> *
 
@@ -264,7 +264,7 @@ Stores: <https://www.electronic4you.at/>, <https://www.mediamarkt.at/>, <https:/
 
 Marketplaces: 
 
-## Belgium
+## [Belgium](https://be.pcpartpicker.com/)
 
 Price Comparison: <https://tweakers.net/> *
 
@@ -304,7 +304,7 @@ Stores: <https://needy.shop/>, <https://dreamyshopcy.com/>, <https://armenius.co
 
 Marketplaces: 
  
-## Czech Republic
+## [Czech Republic](https://cz.pcpartpicker.com/)
 
 Price Comparison: <https://www.heureka.cz/> *
 
@@ -312,7 +312,7 @@ Stores: <https://www.mironet.cz/>, <https://www.k24.cz/>, <https://www.tsbohemia
 
 Marketplaces: 
  
-## [Denmark](https://dk.pcpartpicker.com/) ✅
+## [Denmark](https://dk.pcpartpicker.com/) 
 
 Price Comparison: <https://www.pricerunner.dk/> *, <https://buildapc.gg/dk> *
 
@@ -328,7 +328,7 @@ Stores: <https://arvutitark.ee/>, <https://datagate.ee/>, <https://manguarvutid.
 
 Marketplaces: <https://okidoki.ee/>, <https://www.osta.ee/en>
  
-## Finland
+## [Finland](https://fi.pcpartpicker.com/)
 
 Price Comparison: <https://hinta.fi/> *, <https://hintaopas.fi/>, <https://hintaseuranta.fi/>
 
@@ -336,7 +336,7 @@ Stores: <https://verkkokauppa.com/>, <https://datatronic.fi/>, <https://www.jimm
 
 Marketplaces: <https://www.tori.fi/>, <https://bbs.io-tech.fi/forums/myydaeaen-ja-ostetaan.80/>, <https://www.huuto.net/>
  
-## [France](https://fr.pcpartpicker.com/) ✅
+## [France](https://fr.pcpartpicker.com/)
 
 Price Comparison: 
 
@@ -360,7 +360,7 @@ Stores: <https://www.plaisio.gr/>, <https://www.bestprice.gr/>, <https://www.ewo
 
 Marketplaces: 
  
-## Hungary
+## [Hungary](https://hu.pcpartpicker.com/)
 
 Price Comparison: <https://www.arukereso.hu/> *
 
@@ -368,7 +368,7 @@ Stores: <https://www.mediamarkt.hu/>, <https://ipon.hu/>, <https://iponcomp.hu>
 
 Marketplaces: 
  
-## Italy
+## [Italy](https://it.pcpartpicker.com/)
 
 Price Comparison: 
 
@@ -432,7 +432,7 @@ Stores: <https://www.bol.com/nl/nl/>
 
 Marketplaces: <https://marktplaats.nl/>
 
-## Norway
+## [Norway](https://no.pcpartpicker.com/)
 
 Price Comparison: <https://buildapc.gg/no> *
 
@@ -448,7 +448,7 @@ Stores: <https://sklep.format.com.pl/>, <https://www.x-kom.pl/>, <https://www.mo
 
 Marketplaces: <https://www.olx.pl/>
  
-## [Portugal](https://pt.pcpartpicker.com/) ✅
+## [Portugal](https://pt.pcpartpicker.com/)
 
 Price Comparison: 
 
@@ -456,7 +456,7 @@ Stores: <https://www.pcdiga.com/>, <https://pccomponentes.pt/>, <https://globald
 
 Marketplaces: <https://www.olx.pt/>
  
-## Romania
+## [Romania](https://ro.pcpartpicker.com/)
 
 Price Comparison: <https://compari.ro/>
 
@@ -480,7 +480,7 @@ Stores: <https://www.kliklak.rs/>, <https://jakov.rs/>, <https://gigatron.rs/> *
 
 Marketplaces: <https://kupujemprodajem.com/>
  
-## Slovakia
+## [Slovakia](https://sk.pcpartpicker.com/)
 
 Price Comparison: <https://www.heureka.sk/> *
 
@@ -496,7 +496,7 @@ Stores: <https://www.mimovrste.com/>, <https://www.electronic4you.si/>, <https:/
 
 Marketplaces: 
 
-## [Spain](https://es.pcpartpicker.com/) ✅
+## [Spain](https://es.pcpartpicker.com/)
 
 Price Comparison:
 
@@ -504,7 +504,7 @@ Stores:
 
 Marketplaces: <https://www.mercadolibre.com/>
  
-## Sweden
+## [Sweden](https://se.pcpartpicker.com/)
 
 Price Comparison: <https://prisjakt.nu/> *, <https://www.pricerunner.se/> *, <https://komponentkoll.se/> *, <https://www.proshop.se/>
 
