@@ -316,9 +316,9 @@ Marketplaces:
 
 Price Comparison: <https://www.pricerunner.dk/> *, <https://buildapc.gg/dk> *
 
-Stores: <https://www.computersalg.dk/>, <https://www.elgiganten.dk/>, <https://www.power.dk/>, <https://www.proshop.dk/>
+Stores: <https://www.computersalg.dk/>, <https://www.elgiganten.dk/>, <https://www.power.dk/>, <https://www.proshop.dk/>, <https://www.komplett.dk/>, <https://www.avxperten.dk/>, <https://geekd.dk/>, <https://www.fcomputer.dk/>, <https://www.dustinhome.dk/>
 
-Marketplaces: 
+Marketplaces: <https://www.guloggratis.dk/>, <https://www.dba.dk/>
  
 ## Estonia
 
@@ -824,7 +824,7 @@ Marketplaces: <https://haraj.com.sa/>
  
 ## Türkiye (Turkey)
 
-Price Comparison: 
+Price Comparison: <https://www.akakce.com/> *
 
 Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/> [^3], <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>, <https://www.amazon.com.tr/>
 
