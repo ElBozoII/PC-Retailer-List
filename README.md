@@ -452,7 +452,7 @@ Marketplaces: <https://www.olx.pl/>
 
 Price Comparison: 
 
-Stores: <https://www.pcdiga.com/>, <https://pccomponentes.pt/>, <https://globaldata.pt/>, <https://chip7.pt/>, <https://www.4gaming.pt/>, <https://www.novoatalho.pt/>, <https://switchtechnology.pt/>
+Stores: <https://www.pcdiga.com/>, <https://pccomponentes.pt/>, <https://globaldata.pt/>, <https://chip7.pt/>, <https://www.4gaming.pt/>, <https://www.novoatalho.pt/>, <https://switchtechnology.pt/>, <https://www.aquario.pt/>
 
 Marketplaces: <https://www.olx.pt/>
  
