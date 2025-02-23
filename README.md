@@ -262,7 +262,7 @@ Price Comparison: <https://www.idealo.at/> *, <https://geizhals.eu/> *
 
 Stores: <https://www.electronic4you.at/>, <https://www.mediamarkt.at/>, <https://www.e-tec.at/> *, <https://www.cyberport.at/>, <https://www.mylemon.at/>, <https://www.ditech.at>, <https://www.proshop.at/>
 
-Marketplaces: 
+Marketplaces: <https://www.willhaben.at/>
 
 ## [Belgium](https://be.pcpartpicker.com/)
 
