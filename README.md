@@ -778,7 +778,7 @@ Marketplaces: <https://jo.opensooq.com/>
 
 Price Comparison: 
 
-Stores: <https://gear-up.me/> *, <https://kuwait.microless.com/>
+Stores: <https://gear-up.me/> *, <https://kuwait.microless.com/>, <https://zayoom.com/>
 
 Marketplaces: 
  
