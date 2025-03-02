@@ -346,9 +346,9 @@ Marketplaces:
  
 ## [Germany](https://de.pcpartpicker.com/) ✅
 
-Price Comparison: <https://www.idealo.de/> *, <https://geizhals.eu/> *
+Price Comparison: <https://www.idealo.de/> *, <https://geizhals.eu/> *, <https://www.klarna.com/de/>
 
-Stores: <https://www.klarna.com/de/>, <https://www.mediamarkt.de/>, <https://www.saturn.de/>, <https://de.geekbuying.com/>, <https://www.proshop.de/>
+Stores: <https://www.mediamarkt.de/>, <https://www.saturn.de/>, <https://de.geekbuying.com/>, <https://www.proshop.de/>
 
 Marketplaces: <https://kleinanzeigen.de/>
  
