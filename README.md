@@ -826,7 +826,7 @@ Marketplaces: <https://haraj.com.sa/>
 
 Price Comparison: <https://www.akakce.com/> *
 
-Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/> [^3], <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>, <https://www.amazon.com.tr/>
+Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/> [^3], <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>, <https://www.amazon.com.tr/>, <https://inventus.com.tr/>, <https://www.tebilon.com/>, <https://www.gamegaraj.com/>
 
 Marketplaces: <https://sahibinden.com/>, <https://www.banayeni.com/>
 
