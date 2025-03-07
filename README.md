@@ -510,7 +510,7 @@ Price Comparison: <https://prisjakt.nu/> *, <https://www.pricerunner.se/> *, <ht
 
 Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/>
 
-Marketplaces: 
+Marketplaces: <https://www.blocket.se/>
  
 ## Switzerland
 
