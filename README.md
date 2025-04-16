@@ -154,7 +154,7 @@ Marketplaces: <https://www.janpara.co.jp/>
 
 Price Comparison: 
 
-Stores: <http://pulser.kz/> *
+Stores: <http://pulser.kz/>, <https://kaspi.kz/>, <https://www.technodom.kz/> <https://www.dns-shop.kz/>
 
 Marketplaces: <https://www.olx.kz/>
  
