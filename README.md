@@ -122,7 +122,7 @@ Marketplaces: <https://mymarket.ge/>
 
 Price Comparison: 
 
-Stores: <https://www.price.com.hk/> *, <https://www.faroll.com/>, <https://www.terminalhk.com/>, <https://shop.pegasus.hk/>, <https://rivia-tech.com/>, <https://www.aliexpress.com/>
+Stores: <https://www.price.com.hk/> *, <https://www.faroll.com/>, <https://www.terminalhk.com/>, <https://shop.pegasus.hk/>, <https://www.centralfield.com/>, <https://www.aliexpress.com/>, <https://secomputer.com.hk/>, <https://www.jumbo-computer.com/en>, <https://buymore.hk/shop/>
 
 Marketplaces: <https://www.carousell.com.hk/>
  
