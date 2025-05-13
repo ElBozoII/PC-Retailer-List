@@ -130,7 +130,7 @@ Marketplaces: <https://www.carousell.com.hk/>
 
 Price Comparison: <https://pcpricetracker.in/> *
 
-Stores: <<https://amazon.in/> *, <https://kharidiye.com/>, <https://www.ezpzsolutions.in/>
+Stores: <https://amazon.in/> *, <https://kharidiye.com/>, <https://www.ezpzsolutions.in/>
 
 Marketplaces: 
  
@@ -178,7 +178,7 @@ Marketplaces: <https://hamrobazaar.com/>
 
 Price Comparison: 
 
-Stores: <https://www.czone.com.pk/>, <https://www.telemart.pk/>, <https://www.pakdukaan.com/>
+Stores: <https://www.czone.com.pk/>, <https://www.telemart.pk/>, <https://www.pakdukaan.com/>, <https://polluxgamestore.com/>
 
 Marketplaces: 
  
