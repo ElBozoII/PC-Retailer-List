@@ -202,9 +202,9 @@ Marketplaces: <https://www.carousell.sg/>
 
 Price Comparison: <https://danawa.com/> *
 
-Stores: <https://www.11st.co.kr/>, <https://www.auction.co.kr/>, <https://www.compuzone.co.kr/>, <https://www.gmarket.co.kr/>, <https://usr.icoda.co.kr/>, <https://www.interpark.co.kr/>, <http://www.joyzen.co.kr/>, <https://foryoucom.co.kr/>
+Stores: <https://www.11st.co.kr/>, <https://www.auction.co.kr/>, <https://www.compuzone.co.kr/>, <https://www.gmarket.co.kr/>, <https://usr.icoda.co.kr/>, <https://www.interpark.co.kr/>, <http://www.joyzen.co.kr/>, <https://foryoucom.co.kr/>, <https://www.coupang.com/>
 
-Marketplaces: 
+Marketplaces: [Joongna Cafe](https://cafe.naver.com/joonggonara.cafe?iframe_url=/ArticleList.nhn%3Fsearch.clubid=10050146%26search.boardtype=L%26viewType=pc), <https://web.joongna.com/>, [Carrot](https://www.daangn.com/kr/?in=%EB%85%B8%ED%98%95%EB%8F%99-3835)
 
 ## Sri Lanka
 
