@@ -16,6 +16,8 @@ permalink: /
 
 [^3]: Does not allow returns
 
+[^4]: Overpriced
+
 TBD: add https://www.euronics.com/pages/shop-by-country retailers
 
 # Africa
@@ -810,7 +812,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://pcbuilderqatar.com/> *, <https://store974.com/>, <https://gear-up.me/>, <https://qatar.microless.com/>
+Stores: <https://pcbuilderqatar.com/> *, <https://store974.com/> [^4], <https://gear-up.me/>, <https://qatar.microless.com/>
 
 Marketplaces: 
  
