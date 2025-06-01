@@ -116,7 +116,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://gamers.ge/>, <http://pcroom.ge/>, <https://itworks.ge/>, <https://adashop.ge/>, <https://extra.ge/>
+Stores: <https://gamers.ge/>, <http://pcroom.ge/> *, <https://itworks.ge/>, <https://adashop.ge/>, <https://extra.ge/>, <https://ultra.ge>
 
 Marketplaces: <https://mymarket.ge/>
  
