@@ -340,7 +340,7 @@ Marketplaces: <https://www.tori.fi/>, <https://bbs.io-tech.fi/forums/myydaeaen-j
  
 ## [France](https://fr.pcpartpicker.com/)
 
-Price Comparison: 
+Price Comparison: <https://www.idealo.fr/> *
 
 Stores: <https://www.rueducommerce.fr/>
 
