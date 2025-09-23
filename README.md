@@ -470,7 +470,7 @@ Marketplaces: <https://www.olx.ro/>
 
 Price Comparison: 
 
-Stores: <https://www.dns-shop.ru/>, <https://www.ozon.ru/>, <https://www.tradeinn.com/> *, <https://www.nix.ru/>, <https://www.regard.ru/>, <https://forum3.ru/>, <https://www.coolera.ru/>, <https://www.xpert.ru/>, <https://www.xcom-shop.ru/>, <https://www.onlinetrade.ru/>, <https://www.citilink.ru/>
+Stores: <https://www.dns-shop.ru/>, <https://www.ozon.ru/>, <https://www.nix.ru/>, <https://www.regard.ru/>, <https://forum3.ru/>, <https://www.coolera.ru/>, <https://www.xpert.ru/>, <https://www.xcom-shop.ru/>, <https://www.onlinetrade.ru/>, <https://www.citilink.ru/>, <https://market.yandex.ru/> 
 
 Marketplaces: <https://www.avito.ru/>
  
@@ -492,7 +492,7 @@ Marketplaces:
  
 ## Slovenia
 
-Price Comparison: <https://www.ceneje.si/> *
+Price Comparison: <https://www.ceneje.si/> *, <https://komponentko.si/>
 
 Stores: <https://www.mimovrste.com/>, <https://www.electronic4you.si/>, <https://www.bigbang.si/>
 
