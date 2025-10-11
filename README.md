@@ -18,6 +18,8 @@ permalink: /
 
 [^4]: Overpriced
 
+[^5]: Only items available for comparison are CPUs and GPUs.
+
 TBD: add https://www.euronics.com/pages/shop-by-country retailers
 
 # Africa
@@ -58,7 +60,7 @@ Marketplaces:
 
 Price Comparison:
 
-Stores: <https://www.wootware.co.za/>, <https://www.evetech.co.za/>, <https://www.takealot.com/>, <https://www.titan-ice.co.za/>, <https://www.incredible.co.za/>, <https://www.loot.co.za/>, <https://matrixwarehouse.co.za/>, <https://www.computersonly.co.za/>
+Stores: <https://www.wootware.co.za/>, <https://www.evetech.co.za/>, <https://www.takealot.com/>, <https://www.titan-ice.co.za/>, <https://www.incredible.co.za/> [^2], <https://www.loot.co.za/>, <https://matrixwarehouse.co.za/>, <https://www.computersonly.co.za/>
 
 Marketplaces:
  
@@ -350,7 +352,7 @@ Marketplaces:
 
 Price Comparison: <https://www.idealo.de/> *, <https://geizhals.eu/> *, <https://www.klarna.com/de/>
 
-Stores: <https://www.mediamarkt.de/>, <https://www.saturn.de/>, <https://de.geekbuying.com/>, <https://www.proshop.de/>
+Stores: <https://www.mediamarkt.de/>, <https://www.saturn.de/>, <https://de.geekbuying.com/>, <https://www.proshop.de/>, <https://x-kom.de/>, <https://www.bueromarkt-ag.de/>, <https://jacob.de/>
 
 Marketplaces: <https://kleinanzeigen.de/>
  
@@ -358,7 +360,7 @@ Marketplaces: <https://kleinanzeigen.de/>
 
 Price Comparison: <https://www.skroutz.gr/> *
 
-Stores: <https://www.plaisio.gr/>, <https://www.bestprice.gr/>, <https://www.eworld.com.gr/>
+Stores: <https://www.plaisio.gr/>, <https://www.bestprice.gr/>, <https://www.eworld.com.gr/>, <https://t-support.gr/en/builderpc/>
 
 Marketplaces: 
  
@@ -576,7 +578,7 @@ Marketplaces: <https://www.mercadolibre.com.bo/>
  
 ## Brazil
 
-Price Comparison: <https://meupc.net/>
+Price Comparison: <https://meupc.net/>, <https://promotech.app.br/> [^5]
 
 Stores: <https://www.kabum.com.br/> *, <https://www.pichau.com.br/> *, <https://www.terabyteshop.com.br/>, <https://www.amazon.com.br/>
 
