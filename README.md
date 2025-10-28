@@ -344,7 +344,7 @@ Marketplaces: <https://www.tori.fi/>, <https://bbs.io-tech.fi/forums/myydaeaen-j
 
 Price Comparison: <https://www.idealo.fr/> *
 
-Stores: <https://www.rueducommerce.fr/>
+Stores: <https://www.rueducommerce.fr/>, <https://www.1fodiscount.com/>
 
 Marketplaces: 
  
@@ -440,7 +440,7 @@ Marketplaces: <https://marktplaats.nl/>
 
 Price Comparison: <https://buildapc.gg/no> *
 
-Stores: <https://www.elkjop.no/>, <https://www.komplett.no/>, <https://www.power.no/>, <https://www.multicom.no/>, <https://www.digitalimpuls.no/>, <https://www.dustinhome.no/>, <https://www.proshop.no/>
+Stores: <https://www.elkjop.no/>, <https://www.komplett.no/>, <https://www.power.no/>, <https://www.multicom.no/> [^2], <https://www.dustinhome.no/>, <https://www.proshop.no/>
 
 Marketplaces: <https://www.finn.no/>
  
@@ -506,13 +506,13 @@ Price Comparison:
 
 Stores:
 
-Marketplaces: <https://www.mercadolibre.com/>
+Marketplaces: <https://www.mediamarkt.es/>
  
 ## [Sweden](https://se.pcpartpicker.com/)
 
-Price Comparison: <https://prisjakt.nu/> *, <https://www.pricerunner.se/> *, <https://komponentkoll.se/> *, <https://www.proshop.se/>
+Price Comparison: <https://prisjakt.nu/> *, <https://www.pricerunner.se/> *, <https://komponentkoll.se/> *
 
-Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/>
+Stores: <https://www.inet.se/>, <https://www.computersalg.se/>, <https://www.elgiganten.se/>, <https://www.proshop.se/>
 
 Marketplaces: <https://www.blocket.se/>
  
@@ -766,7 +766,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://tms.co.il/>, <http://www.ivory.co.il/> *, <https://ksp.co.il/> *, <https://plonter.co.il/>, <https://bug.co.il/>, <https://www.yahavpc.co.il/>
+Stores: <https://tms.co.il/> *, <http://www.ivory.co.il/>, <https://ksp.co.il/>, <https://plonter.co.il/> *, <https://bug.co.il/>, <https://www.yahavpc.co.il/>
 
 Marketplaces: 
 
