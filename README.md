@@ -378,7 +378,7 @@ Price Comparison:
 
 Stores: <https://pskmegastore.com/>, <https://www.bpm-power.com/>
 
-Marketplaces: 
+Marketplaces: <https://shop.paginegialle.it/>
 
 ## Kosovo
 
@@ -448,7 +448,7 @@ Marketplaces: <https://www.finn.no/>
 
 Price Comparison: <https://www.ceneo.pl/> *
 
-Stores: <https://sklep.format.com.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>, <https://cenowarka.pl/>
+Stores: <https://sklep.format.com.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>
 
 Marketplaces: <https://www.olx.pl/>
  
@@ -830,7 +830,7 @@ Marketplaces: <https://haraj.com.sa/>
 
 Price Comparison: <https://www.akakce.com/> *
 
-Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/> [^3], <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>, <https://www.amazon.com.tr/>, <https://inventus.com.tr/>, <https://www.tebilon.com/>, <https://www.gamegaraj.com/>
+Stores: <https://n11.com/> *, <https://www.hepsiburada.com/>, <https://www.trendyol.com/>, <https://www.vatanbilgisayar.com/>, <https://www.itopya.com/>, <https://www.gaming.gen.tr/>, <https://www.sinerji.gen.tr/>, <https://www.incehesap.com/>, <https://www.mediamarkt.com.tr/>, <https://www.pazarama.com/>, <https://www.amazon.com.tr/>, <https://inventus.com.tr/>, <https://www.tebilon.com/>, <https://www.gamegaraj.com/>
 
 Marketplaces: <https://sahibinden.com/>, <https://www.banayeni.com/>
 
