@@ -490,7 +490,7 @@ Price Comparison: <https://www.heureka.sk/> *
 
 Stores: <https://alza.sk/>, <https://www.tichepc.sk/>
 
-Marketplaces: 
+Marketplaces: <https://pc.bazos.sk/>
  
 ## Slovenia
 
