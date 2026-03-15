@@ -822,7 +822,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://www.jarir.com/>, <https://gear-up.me/>, <https://amazon.sa>, <https://saudi.microless.com/>
+Stores: <https://www.jarir.com/>, <https://gear-up.me/>, <https://amazon.sa>, <https://saudi.microless.com/> <https://pcpalace.com.sa/>, <https://goldentech.com.sa/>, <https://softland.com.sa/>
 
 Marketplaces: <https://haraj.com.sa/>
  
