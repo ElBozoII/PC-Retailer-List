@@ -448,7 +448,7 @@ Marketplaces: <https://www.finn.no/>
 
 Price Comparison: <https://www.ceneo.pl/> *
 
-Stores: <https://sklep.format.com.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>
+Stores: <https://sklep.format.com.pl/>, <https://www.x-kom.pl/>, <https://www.morele.net/> *, <https://www.komputronik.pl/>, <https://allegro.pl/>, <https://www.mediaexpert.pl/>, <https://www.zadowolenie.pl/>, <https://mediamarkt.pl/>, <https://www.euro.com.pl/>
 
 Marketplaces: <https://www.olx.pl/>
  
