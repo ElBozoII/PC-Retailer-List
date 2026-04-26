@@ -838,6 +838,6 @@ Marketplaces: <https://sahibinden.com/>, <https://www.banayeni.com/>
 
 Price Comparison: 
 
-Stores: <https://dubaigamers.com/>, <https://gccgamers.com/>, <https://www.geekay.com/>, <https://gear-up.me/>, <https://www.amazon.ae/>, <https://uae.microless.com/>
+Stores: <https://gccgamers.com/>, <https://www.geekay.com/>, <https://gear-up.me/>, <https://www.amazon.ae/>, <https://uae.microless.com/>
 
 Marketplaces: <https://www.dubizzle.com/>
