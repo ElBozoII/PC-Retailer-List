@@ -376,7 +376,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://pskmegastore.com/>, <https://www.bpm-power.com/>
+Stores: <https://www.bpm-power.com/>
 
 Marketplaces: <https://shop.paginegialle.it/>
 
@@ -454,7 +454,7 @@ Marketplaces: <https://www.olx.pl/>
  
 ## [Portugal](https://pt.pcpartpicker.com/)
 
-Price Comparison: 
+Price Comparison: <https://www.kuantokusta.pt/>
 
 Stores: <https://www.pcdiga.com/>, <https://pccomponentes.pt/>, <https://globaldata.pt/>, <https://chip7.pt/>, <https://www.4gaming.pt/>, <https://www.novoatalho.pt/>, <https://switchtechnology.pt/>, <https://www.aquario.pt/>
 
