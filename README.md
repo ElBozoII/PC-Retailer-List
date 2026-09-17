@@ -286,9 +286,9 @@ Marketplaces: <https://olx.ba/>
 
 ## Bulgaria
 
-Price Comparison: 
+Price Comparison: <https://www.pazaruvaj.com/> *
 
-Stores: <https://www.ozone.bg/>, <https://www.jarcomputers.com/>, <https://ardes.bg/>, <https://pcbuild.bg/>, <https://www.pazaruvaj.com/> *, <https://plasico.bg/> *, <https://www.emag.bg/>
+Stores: <https://www.ozone.bg/>, <https://www.jarcomputers.com/>, <https://ardes.bg/>, <https://pcbuild.bg/>, <https://plasico.bg/>, <https://www.emag.bg/>, <https://gaminggear.bg/>, <https://desktop.bg/>, <https://xtreme.bg/>, <https://www.vali.bg/>
 
 Marketplaces: <https://bazar.bg/>, <https://www.olx.bg/>
  
@@ -758,7 +758,7 @@ Marketplaces:
 
 Price Comparison: 
 
-Stores: <https://alityan.com/>, <https://www.elryan.com/>
+Stores: <https://alityan.com/>, <https://www.elryan.com/>, <https://alfarah-store.com/>, <https://globaliraq.iq/>, <https://hawranj.com/>, <https://www.daringaming.com/>, <https://techmart.krd/>
 
 Marketplaces: 
  
