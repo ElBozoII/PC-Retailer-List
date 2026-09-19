@@ -50,7 +50,7 @@ Marketplaces:
 
 ## Morocco
 
-Price Comparison:
+Price Comparison: <https://pcpicker.ma/> *
 
 Stores: <https://www.ultrapc.ma/> *, <https://nextlevelpc.ma/>, <https://setupgame.codebarre.ma/>, <https://techspace.ma/>
 
